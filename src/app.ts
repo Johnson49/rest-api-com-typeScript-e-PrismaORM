@@ -1,6 +1,6 @@
 import { Express } from "express";
 import express from "express"
-import routes from "./routes/router";
+import routes from "./routes/usuario.router";
 
 export const app: Express = express()
 

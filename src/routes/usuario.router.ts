@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { criar_novo_usuario, ler_todos_usuario, raiz, apagar_usuario, atualizar_usuario} from "../controller/controller";
+import { criar_novo_usuario, ler_todos_usuario, raiz, apagar_usuario, atualizar_usuario} from "../controller/usuario.controller";
 
 const routes =  Router()
 
