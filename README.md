@@ -6,11 +6,9 @@ Este projeto é construído com TypeScript usado [Express](https://expressjs.com
 
 ### 1. Clone o projeto e instale as dependências
 
-> Clone o repositório:
-
 `git clone https://github.com/Johnson49/api-com-typeScript-e-Prisma`
 
-> Instale as dependências do npm:
+> Instale as dependências com o npm:
 ```
 cd api-com-typeScript-e-Prisma
 npm install
