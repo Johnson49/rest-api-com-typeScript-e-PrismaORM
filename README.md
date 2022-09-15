@@ -8,7 +8,7 @@ Este projeto é construído com TypeScript usado [Express](https://expressjs.com
 
 > Clone o repositório:
 
-` git clone https://github.com/Johnson49/api-com-typeScript-e-Prisma `
+`git clone https://github.com/Johnson49/api-com-typeScript-e-Prisma`
 
 > Instale as dependências do npm:
 ```
