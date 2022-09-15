@@ -2,9 +2,7 @@ import { Request, Response } from "express";
 import usuarioRepository, { prisma } from "../repositories/usuario.repository";
 
 
-export function raiz(req: Request, res: Response) {
-  return res.json({ msg: "BEm-vindo" });
-}
+
 
 export function criar_novo_usuario(req: Request, res: Response) {
   const { nome, email } = req.body;
