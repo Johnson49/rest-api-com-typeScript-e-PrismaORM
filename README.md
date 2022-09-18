@@ -15,7 +15,7 @@ cd api-com-typeScript-e-Prisma
 npm install
 ```
 
-### 2. Criar o banco de dados
+### 2. Criando o banco de dados
 
 > Execute o seguinte comando para criar o arquivo de banco de dados SQLite. Isso também criará as tabelas Usuário e Publicação em `prisma/`:
 
