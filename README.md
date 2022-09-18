@@ -9,6 +9,7 @@ Esta API é construída com TypeScript usado [Express](https://expressjs.com/) e
 `git clone https://github.com/Johnson49/api-com-typeScript-e-Prisma`
 
 <h4> Instale as dependências com o npm:</h4>
+
 ```
 cd api-com-typeScript-e-Prisma
 npm install
