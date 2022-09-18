@@ -1,6 +1,6 @@
 # REST API com Express, typeScript e Prisma
 
-Este projeto é construído com TypeScript usado [Express](https://expressjs.com/) e [Prisma Client](https://www.prisma.io/docs/concepts/components/prisma-client). È baseado em um banco de dados SQLITE.
+Esta API é construída com TypeScript usado [Express](https://expressjs.com/) e [Prisma Client](https://www.prisma.io/docs/concepts/components/prisma-client). È baseado em um banco de dados SQLITE.
 
 ## Começando
 
